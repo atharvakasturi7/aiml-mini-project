@@ -1,0 +1,7 @@
+path: data
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 5
+names: ['crack', 'damage', 'pothole', 'pothole_water', 'pothole_water_m']

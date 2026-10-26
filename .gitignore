@@ -1,0 +1,12 @@
+# .venv/
+# Python cache
+__pycache__/
+*.pyc
+# Dataset and model weights
+data/raw_dataset/
+data/dataset/
+runs/
+# Jupyter notebooks
+.ipynb_checkpoints/
+# OS files
+.DS_Store
